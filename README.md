@@ -1,4 +1,4 @@
-[![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)]
+![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Marneni Roopesh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif">
